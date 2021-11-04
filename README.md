@@ -26,6 +26,6 @@ gcc game_of_life.c -o game_of_life
 ## Links
 
 
-Download Source Code: [Click Here](https://github.com/dori-dev/game-of-life/archive/refs/heads/main.zip)
+Download Source Code: [Click Here](https://github.com/dori-dev/game-of-life-c/archive/refs/heads/main.zip)
 
 My Github Acount: [Click Here](https://github.com/dori-dev/)
