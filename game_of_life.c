@@ -66,8 +66,9 @@ void evaluation(void *u, int w, int h)
 int main()
 {
     srand(time(0));
-    int w = 20;
-    int h = 40;
+    int w = 30;
+    int h = 50;
+    int time = 500000;
     char world[w][h];
     for (int x = 0; x < w; x++)
     {
@@ -80,7 +81,7 @@ int main()
     {
         draw(world, w, h);
         evaluation(world, w, h);
-        usleep(500000);
+        usleep(time);
     }
 
     return 0;
