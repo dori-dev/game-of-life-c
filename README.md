@@ -12,7 +12,7 @@ One interacts with the Game of Life by creating an initial configuration and obs
 gcc game_of_life.c -o game_of_life
 ```
 
-## Step 2, run the code
+## Step 2, Run the Code
 ```
 ./game_of_life
 ```
