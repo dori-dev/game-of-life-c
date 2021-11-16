@@ -7,7 +7,7 @@ One interacts with the Game of Life by creating an initial configuration and obs
 #
 # How to Play
 
-## Step 1, compile code
+## Step 1, Compile Code
 ```
 gcc game_of_life.c -o game_of_life
 ```
